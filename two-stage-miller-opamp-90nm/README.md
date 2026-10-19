@@ -57,7 +57,7 @@ gm/ID versus ID/W and gm·ro curves for L = 100 nm, 180 nm, 300 nm and 500 nm.
 
 **NMOS**
 
-![NMOS gm/ID vs ID/W and gm·ro](images/characterization/nmos_gmid_idw_gmro.jpg)
+![NMOS gm/ID vs ID/W and gm·ro](two-stage-miller-opamp-90nm/images/characterization/nmos_gmid_idw_gmro.jpeg)
 
 ---
 
