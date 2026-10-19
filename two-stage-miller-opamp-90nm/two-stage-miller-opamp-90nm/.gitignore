@@ -1,0 +1,16 @@
+# Cadence / Spectre working files
+*.log
+*.lck
+.cdslck*
+cdsinfo.tag
+cds.lib
+hdl.var
+simulation/
+psf/
+*.raw
+*.ahdlSimDB/
+.cadence/
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
